@@ -1,6 +1,6 @@
 # <div align="center"> Comandos Avançados  :memo: ​ </div>
 
-<div align="center"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/tayhsn/git-basic?logoColor=red&style=social"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tayhsn/git-basic?logoColor=orange&style=social"> </div>
+<div align="center"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/tayhsn/git-advanced?logoColor=red&style=social"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tayhsn/git-advanced?logoColor=orange&style=social"> </div>
 
 ### Comandos que vão elevar sua performace com Git :octocat:
 
