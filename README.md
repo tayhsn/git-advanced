@@ -8,7 +8,7 @@ Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para 
 
 <hr>
 
-* Alterar o repositório que salvo anteriormente (exemplo: no caso de mudar o nome do repositorio) 
+* Alterar o repositório remoto do diretório (exemplo: ter mudado o nome do repositorio no meio do desenvolvimento) 
 
   ​		```	GIT REMOTE SET-URL ORIGIN <urlNovoRepositorio> ```
  
