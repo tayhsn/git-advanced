@@ -14,7 +14,7 @@ Você pode copiar esse repositório para o seu perfil com FORK ou salvá-lo com 
 
 Esse comando reseta as alterações salvas no commit, e suas variações são:
 
--- soft: reseta o commit e retorna a **stagging área/index**
+--soft: reseta o commit e retorna a **stagging área/index**
 
 --mixed: reseta o commit e retorna **ao working directory** (opção padrão)
 
@@ -101,8 +101,8 @@ Rodapé (opcional): Será a terceira linha, e aqui pode você fazer referência 
 Sobre a estrutura dos commits:
 
 - Os comandos que tem " -- " antes são propriedades que mudam o comportamento do comando, esses são chamados de flags.
-- Os comandos dentro de " [ ] " são atributos do mesmo tipo. Não é necessário utilizar todos.
-- Os comandos em " [ ] " diferentes são atributos de tipos diferentes. Não é necessário utilizar todos.
+- Os comandos dentro de " [ ] " são atributos do mesmo tipo. Use somente UM.
+- Os comandos em " [ ] " diferentes são atributos de tipos diferentes. Pode ser usado um ou mais.
 - HASH é o identificador do commit, e se parece com: "097cf90577316b0271b807acf22def39c92421a8" 
 - HEAD é a cabeça, ou seja, a ponta ou o último commit válido, você pode se guiar pela cabeça utilizando HEAD~1
 
